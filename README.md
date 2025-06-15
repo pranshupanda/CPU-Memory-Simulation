@@ -15,6 +15,8 @@ Simply run the command
 python sim.py
 ```
 
-This will: 
+You will be prompted to enter the desired number of caches and CPU cores, ideally these should be the same. 
+
+The code in this repository will: 
 * Create an Excel file and populate it with some sample data
 * Visualize the cache and CPU interaction in an infinite loop
